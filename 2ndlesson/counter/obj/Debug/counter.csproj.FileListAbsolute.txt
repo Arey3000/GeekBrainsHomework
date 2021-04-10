@@ -1,0 +1,7 @@
+D:\GB\2ndhomework\counter\bin\Debug\counter.exe.config
+D:\GB\2ndhomework\counter\bin\Debug\counter.exe
+D:\GB\2ndhomework\counter\bin\Debug\counter.pdb
+D:\GB\2ndhomework\counter\obj\Debug\counter.csprojAssemblyReference.cache
+D:\GB\2ndhomework\counter\obj\Debug\counter.csproj.CoreCompileInputs.cache
+D:\GB\2ndhomework\counter\obj\Debug\counter.exe
+D:\GB\2ndhomework\counter\obj\Debug\counter.pdb

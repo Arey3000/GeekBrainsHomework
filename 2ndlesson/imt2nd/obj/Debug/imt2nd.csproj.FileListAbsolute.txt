@@ -1,0 +1,11 @@
+D:\GB\2ndhomework\imt2nd\bin\Debug\imt2nd.exe.config
+D:\GB\2ndhomework\imt2nd\bin\Debug\imt2nd.exe
+D:\GB\2ndhomework\imt2nd\bin\Debug\imt2nd.pdb
+D:\GB\2ndhomework\imt2nd\obj\Debug\imt2nd.csproj.CoreCompileInputs.cache
+D:\GB\2ndhomework\imt2nd\obj\Debug\imt2nd.exe
+D:\GB\2ndhomework\imt2nd\obj\Debug\imt2nd.pdb
+D:\GB\2ndhomework\imt2nd\obj\Debug\imt2nd.csprojAssemblyReference.cache
+D:\GB\2ndhomework\imt2nd\bin\Debug\imt2nd.exe.manifest
+D:\GB\2ndhomework\imt2nd\bin\Debug\imt2nd.application
+D:\GB\2ndhomework\imt2nd\obj\Debug\imt2nd.exe.manifest
+D:\GB\2ndhomework\imt2nd\obj\Debug\imt2nd.application

@@ -1,0 +1,7 @@
+D:\GB\2ndhomework\2ndhomework\bin\Debug\2ndhomework.exe.config
+D:\GB\2ndhomework\2ndhomework\bin\Debug\2ndhomework.exe
+D:\GB\2ndhomework\2ndhomework\bin\Debug\2ndhomework.pdb
+D:\GB\2ndhomework\2ndhomework\obj\Debug\minimum.csprojAssemblyReference.cache
+D:\GB\2ndhomework\2ndhomework\obj\Debug\minimum.csproj.CoreCompileInputs.cache
+D:\GB\2ndhomework\2ndhomework\obj\Debug\2ndhomework.exe
+D:\GB\2ndhomework\2ndhomework\obj\Debug\2ndhomework.pdb

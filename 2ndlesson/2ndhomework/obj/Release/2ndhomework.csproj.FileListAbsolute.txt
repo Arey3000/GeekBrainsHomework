@@ -1,0 +1,6 @@
+D:\GB\2ndhomework\2ndhomework\bin\Release\2ndhomework.exe.config
+D:\GB\2ndhomework\2ndhomework\bin\Release\2ndhomework.exe
+D:\GB\2ndhomework\2ndhomework\bin\Release\2ndhomework.pdb
+D:\GB\2ndhomework\2ndhomework\obj\Release\2ndhomework.csproj.CoreCompileInputs.cache
+D:\GB\2ndhomework\2ndhomework\obj\Release\2ndhomework.exe
+D:\GB\2ndhomework\2ndhomework\obj\Release\2ndhomework.pdb

@@ -1,0 +1,7 @@
+D:\GB\2ndhomework\sumpositive\obj\Debug\sumpositive.csprojAssemblyReference.cache
+D:\GB\2ndhomework\sumpositive\obj\Debug\sumpositive.csproj.CoreCompileInputs.cache
+D:\GB\2ndhomework\sumpositive\bin\Debug\sumpositive.exe.config
+D:\GB\2ndhomework\sumpositive\bin\Debug\sumpositive.exe
+D:\GB\2ndhomework\sumpositive\bin\Debug\sumpositive.pdb
+D:\GB\2ndhomework\sumpositive\obj\Debug\sumpositive.exe
+D:\GB\2ndhomework\sumpositive\obj\Debug\sumpositive.pdb
