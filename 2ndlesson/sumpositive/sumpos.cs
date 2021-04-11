@@ -15,27 +15,33 @@ namespace sumpositive
             Console.WriteLine("Введите числа по одному, для завершения введите '0':");
 
             int amount = 0;
-           
-                while (true)
+            int sum = 0;
+            while (true)
+            {
+                int num = int.Parse(Console.ReadLine());
+                if (num == 0)
                 {
-                    int num = int.Parse(Console.ReadLine());
-                    if (num == 0)
-                    {
-                        break;
-                    }
-                    else if (num > 0 && num % 2 == 1)
-                    {
-                        amount++;
-                    }
+                    break;
                 }
+                else if (num > 0 && num % 2 == 1)
+                {
+                    amount++;
+                    sum += num;
+                }
+            }
 
-
-            System.Threading.Thread.Sleep(2000);
-            Console.Clear();
+            clp();
 
             Console.WriteLine("Количество чисел: " + amount);
+            Console.WriteLine("Сумма чисел: " + sum);
 
             Console.ReadKey();
+        }
+
+        private static void clp()
+        {
+            System.Threading.Thread.Sleep(2000);
+            Console.Clear();
         }
     }
 }
