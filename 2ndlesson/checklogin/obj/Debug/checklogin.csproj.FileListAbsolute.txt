@@ -1,0 +1,7 @@
+D:\GB\2ndhomework\checklogin\bin\Debug\checklogin.exe.config
+D:\GB\2ndhomework\checklogin\bin\Debug\checklogin.exe
+D:\GB\2ndhomework\checklogin\bin\Debug\checklogin.pdb
+D:\GB\2ndhomework\checklogin\obj\Debug\checklogin.csprojAssemblyReference.cache
+D:\GB\2ndhomework\checklogin\obj\Debug\checklogin.csproj.CoreCompileInputs.cache
+D:\GB\2ndhomework\checklogin\obj\Debug\checklogin.exe
+D:\GB\2ndhomework\checklogin\obj\Debug\checklogin.pdb
