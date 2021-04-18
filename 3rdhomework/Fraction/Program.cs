@@ -75,6 +75,10 @@ namespace Fraction
             Console.WriteLine("Результомделения чисел: " + fraction1.ToString() + " и " + fraction2.ToString() + " является "
                + result.ToString());
 
+            
+
+
+
             Console.ReadKey();
         }
     }
