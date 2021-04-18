@@ -11,6 +11,7 @@ namespace Complex
     {
         //а) Дописать структуру Complex, добавив метод вычитания комплексных чисел.Продемонстрировать работу структуры.
         //б) Дописать класс Complex, добавив методы вычитания и произведения чисел.Проверить работу класса.
+        //в) Добавить диалог с использованием switch демонстрирующий работу класса.
         //Выполнил Шакун Кирилл
         static void Main(string[] args)
         {
@@ -50,7 +51,7 @@ namespace Complex
                + cresult.ToString());
 
 
-            Complex res = new Complex();
+            
             Console.WriteLine("Тип операции: сложение(+) , вычитание(-) , умножение(*)");
             var choice = Console.ReadLine();
                 switch (choice)
