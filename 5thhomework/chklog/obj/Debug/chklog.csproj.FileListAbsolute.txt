@@ -1,0 +1,6 @@
+D:\GB\5thhomework\chklog\bin\Debug\chklog.exe.config
+D:\GB\5thhomework\chklog\bin\Debug\chklog.exe
+D:\GB\5thhomework\chklog\bin\Debug\chklog.pdb
+D:\GB\5thhomework\chklog\obj\Debug\chklog.csproj.CoreCompileInputs.cache
+D:\GB\5thhomework\chklog\obj\Debug\chklog.exe
+D:\GB\5thhomework\chklog\obj\Debug\chklog.pdb

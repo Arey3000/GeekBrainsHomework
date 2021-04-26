@@ -1,0 +1,7 @@
+D:\GB\5thhomework\5thhomework\bin\Debug\5thhomework.exe.config
+D:\GB\5thhomework\5thhomework\bin\Debug\5thhomework.exe
+D:\GB\5thhomework\5thhomework\bin\Debug\5thhomework.pdb
+D:\GB\5thhomework\5thhomework\obj\Debug\2strings.csprojAssemblyReference.cache
+D:\GB\5thhomework\5thhomework\obj\Debug\2strings.csproj.CoreCompileInputs.cache
+D:\GB\5thhomework\5thhomework\obj\Debug\5thhomework.exe
+D:\GB\5thhomework\5thhomework\obj\Debug\5thhomework.pdb
