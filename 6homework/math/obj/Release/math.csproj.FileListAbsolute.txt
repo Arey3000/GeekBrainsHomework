@@ -1,0 +1,6 @@
+D:\GB\6homework\6homework\bin\Release\6homework.exe.config
+D:\GB\6homework\6homework\bin\Release\6homework.exe
+D:\GB\6homework\6homework\bin\Release\6homework.pdb
+D:\GB\6homework\6homework\obj\Release\math.csproj.CoreCompileInputs.cache
+D:\GB\6homework\6homework\obj\Release\6homework.exe
+D:\GB\6homework\6homework\obj\Release\6homework.pdb
