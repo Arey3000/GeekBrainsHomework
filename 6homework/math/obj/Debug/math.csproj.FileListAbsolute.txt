@@ -1,0 +1,7 @@
+D:\GB\6homework\6homework\bin\Debug\6homework.exe.config
+D:\GB\6homework\6homework\bin\Debug\6homework.exe
+D:\GB\6homework\6homework\bin\Debug\6homework.pdb
+D:\GB\6homework\6homework\obj\Debug\math.csprojAssemblyReference.cache
+D:\GB\6homework\6homework\obj\Debug\math.csproj.CoreCompileInputs.cache
+D:\GB\6homework\6homework\obj\Debug\6homework.exe
+D:\GB\6homework\6homework\obj\Debug\6homework.pdb
