@@ -8,3 +8,13 @@ C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson
 C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.CoreCompileInputs.cache
 C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\WF_Udvoitel\obj\Debug\WF_Udvoitel.exe
 C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\WF_Udvoitel\obj\Debug\WF_Udvoitel.pdb
+D:\GIT\GeekBrainsHomework\7homework\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe.config
+D:\GIT\GeekBrainsHomework\7homework\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe
+D:\GIT\GeekBrainsHomework\7homework\WF_Udvoitel\bin\Debug\WF_Udvoitel.pdb
+D:\GIT\GeekBrainsHomework\7homework\WF_Udvoitel\obj\Debug\WF_Udvoitel.csprojAssemblyReference.cache
+D:\GIT\GeekBrainsHomework\7homework\WF_Udvoitel\obj\Debug\WF_Udvoitel.Form1.resources
+D:\GIT\GeekBrainsHomework\7homework\WF_Udvoitel\obj\Debug\WF_Udvoitel.Properties.Resources.resources
+D:\GIT\GeekBrainsHomework\7homework\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.GenerateResource.cache
+D:\GIT\GeekBrainsHomework\7homework\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.CoreCompileInputs.cache
+D:\GIT\GeekBrainsHomework\7homework\WF_Udvoitel\obj\Debug\WF_Udvoitel.exe
+D:\GIT\GeekBrainsHomework\7homework\WF_Udvoitel\obj\Debug\WF_Udvoitel.pdb

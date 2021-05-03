@@ -28,8 +28,8 @@ namespace guessNumber
             lblStepCount.Text = "0";
             lblEnterTheNumber.Text = $"Введите число от 0 до {max}:";
             lblStepText.Text = "Счёт ходов:";
-            MessageBox.Show("Вводите в поле число пока не угадаете. Нажимайте кнопку \"Проверить\" " +
-                "чтобы узнать результат попытки. ", "Правила");
+            MessageBox.Show("Вводите число пока не угадаете. Кнопка \"Проверить\" " +
+                "чтобы узнать результат попытки. ", "Правила игры");
             tboxUserAnswer.Visible = false;
             f2 = new Form2();
             f2.Show();
