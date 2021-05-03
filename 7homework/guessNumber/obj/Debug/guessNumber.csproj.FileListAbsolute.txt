@@ -1,0 +1,11 @@
+C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\guessNumber\bin\Debug\guessNumber.exe.config
+C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\guessNumber\bin\Debug\guessNumber.exe
+C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\guessNumber\bin\Debug\guessNumber.pdb
+C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\guessNumber\obj\Debug\guessNumber.csprojAssemblyReference.cache
+C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\guessNumber\obj\Debug\guessNumber.Form1.resources
+C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\guessNumber\obj\Debug\guessNumber.Form2.resources
+C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\guessNumber\obj\Debug\guessNumber.Properties.Resources.resources
+C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\guessNumber\obj\Debug\guessNumber.csproj.GenerateResource.cache
+C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\guessNumber\obj\Debug\guessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\guessNumber\obj\Debug\guessNumber.exe
+C:\Users\Админ\Downloads\CSharpLevel1-master (1)\CSharpLevel1-master\Lesson7\guessNumber\obj\Debug\guessNumber.pdb
