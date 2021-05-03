@@ -5,3 +5,10 @@ D:\GB\6homework\6homework\obj\Debug\math.csprojAssemblyReference.cache
 D:\GB\6homework\6homework\obj\Debug\math.csproj.CoreCompileInputs.cache
 D:\GB\6homework\6homework\obj\Debug\6homework.exe
 D:\GB\6homework\6homework\obj\Debug\6homework.pdb
+D:\GIT\GeekBrainsHomework\6homework\math\bin\Debug\6homework.exe.config
+D:\GIT\GeekBrainsHomework\6homework\math\bin\Debug\6homework.exe
+D:\GIT\GeekBrainsHomework\6homework\math\bin\Debug\6homework.pdb
+D:\GIT\GeekBrainsHomework\6homework\math\obj\Debug\math.csprojAssemblyReference.cache
+D:\GIT\GeekBrainsHomework\6homework\math\obj\Debug\math.csproj.CoreCompileInputs.cache
+D:\GIT\GeekBrainsHomework\6homework\math\obj\Debug\6homework.exe
+D:\GIT\GeekBrainsHomework\6homework\math\obj\Debug\6homework.pdb
